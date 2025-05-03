@@ -13,5 +13,5 @@ This is a lightweight geese detection and counting script using a custom-trained
 ![Input](geese.jpg)
 
 ### Output Video (Preview)
-![Geese Detection Output](output_video_counted6.gif)
+![Geese Detection Output](output_video_counted6-2.gif)
 
